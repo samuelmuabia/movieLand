@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# omdb API is used in this website to fetch movies details using react[https://www.omdbapi.com/](https://www.omdbapi.com/)
+## React Features are use here , useState, useEffect, Components.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Getting Started with Create React App
+
+This project was bootstrapped with[Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
